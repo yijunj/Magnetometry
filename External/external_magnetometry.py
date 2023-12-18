@@ -7,4 +7,3 @@ f = open('data.csv', 'w')
 while True:
     line = ser.readline().decode('utf-8')
     f.write(line.replace(' ',','))
-
