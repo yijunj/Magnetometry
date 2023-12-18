@@ -1,4 +1,4 @@
-# This is the documentation for out-of-tube magnetometry.
+## This is the documentation for out-of-tube magnetometry.
 
 Upload ```external_magnetometry.ino``` to the Arduino.
 
